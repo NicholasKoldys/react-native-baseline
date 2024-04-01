@@ -26,7 +26,8 @@ ios/.xcode.env.local
 #
 build/
 .idea
-.gradle
+*.gradle
+*gradle
 local.properties
 *.iml
 *.hprof
@@ -54,6 +55,10 @@ yarn-error.log
 
 # Bundle artifact
 *.jsbundle
+*package-lock.json
+*.lock
+.yarn/
+yarn.lock
 
 # Ruby / CocoaPods
 /ios/Pods/
