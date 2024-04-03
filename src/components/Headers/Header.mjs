@@ -1,7 +1,7 @@
 import React, { useMemo } from 'react';
 import { useWindowDimensions } from 'react-native';
 import { StyleSheet, View, StyleProp, ViewStyle } from 'react-native';
-import { useSafeAreaInsets } from 'react-native-safe-area-context';
+// import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { FadingView } from '../Containers/FadingView.mjs';
 
