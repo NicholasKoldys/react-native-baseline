@@ -1,4 +1,5 @@
 module.exports = {
+  $schema: "http://json.schemastore.org/prettierrc",
   arrowParens: 'avoid',
   bracketSameLine: true,
   bracketSpacing: false,
